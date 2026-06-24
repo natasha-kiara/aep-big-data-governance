@@ -168,6 +168,6 @@ Selected targets:
 
 ## About this project
 
-Built as the capstone case study for DAMG 6330: Big Data Architecture and Governance at Northeastern University, Toronto Campus, Spring 2026. The course required selecting a real company and maintaining it as a persistent case study across all assignments: company research, project scoping, requirements, architecture, budgeting, and governance.
+Built as the capstone case study for Big Data Architecture and Governance at Northeastern University. The course required selecting a real company and maintaining it as a persistent case study across all assignments: company research, project scoping, requirements, architecture, budgeting, and governance.
 
 The goal was never to produce polished slides. It was to make defensible decisions about real problems at a real company, and to be able to explain the reasoning behind every one of them.
