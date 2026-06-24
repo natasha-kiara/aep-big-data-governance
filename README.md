@@ -33,8 +33,8 @@ The starting point for this project was a company-wide SWOT analysis grounded in
 ## What is in this repository
 
 ```
-├── presentation/          AEP Big Data Architecture and Governance, full slide deck
-├── governance/            Data Governance Guiding Principles (DGGP), the enterprise framework
+├── presentation         AEP Big Data Architecture and Governance, full slide deck
+├── governance principles            Data Governance Guiding Principles (DGGP), the enterprise framework
 └── README.md              This file
 ```
 
